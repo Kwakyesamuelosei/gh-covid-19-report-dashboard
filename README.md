@@ -4,13 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Project setup
 
-Update NPM `sudo npm install npm@latest -g` \
+Update NPM `sudo npm install npm@latest -g` 
 
-Install the Angular CLI `sudo npm install -g @angular/cli` \
+Install the Angular CLI `sudo npm install -g @angular/cli` 
 
-Clone the project `https://github.com/Kwakyesamuelosei/gh-covid-19-report-dashboard.git` \
+Clone the project `https://github.com/Kwakyesamuelosei/gh-covid-19-report-dashboard.git` 
 
-Cd into the project `cd gh-covid-19-report-dashboard` \
+Cd into the project `cd gh-covid-19-report-dashboard` 
 
 Run Dependencies in the project `sudo npm install`
 
