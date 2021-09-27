@@ -1,0 +1,13 @@
+
+<div [ngClass]="{
+    'confirmedContainer' : statsDetails.status === 'confirmed', 
+    'recoveredContainer' : statsDetails.status === 'recovered',
+    'deathsContainer' : statsDetails.status === 'deaths',
+    'activeContainer' : statsDetails.status === 'active'
+}">
+    <div class="stats-title">{{ statsDetails.statusLabel }}</div>
+    <div class="stats-value">{{ statsDetails.value }}</div>
+</div>
+
+
+

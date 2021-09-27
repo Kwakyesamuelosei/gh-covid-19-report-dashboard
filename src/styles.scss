@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+
+.loadingContainer{
+    text-align: center;
+    position: relative;
+    top: 150px;
+
+    & .ant-spin-dot-item {
+        position: absolute;
+        display: block;
+        width: 9px;
+        height: 9px;
+        background-color: #001529;
+        border-radius: 100%;
+        transform: scale(.75);
+        transform-origin: 50% 50%;
+        opacity: .3;
+        animation: antSpinMove 1s infinite linear alternate;
+    }
+}

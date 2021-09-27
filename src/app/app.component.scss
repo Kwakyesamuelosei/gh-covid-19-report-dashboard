@@ -1,0 +1,63 @@
+nz-header{
+    color: #fff;
+    text-align: center;
+    font-size: 22px
+}
+
+nz-content{
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.header-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    line-height: 19px;
+    padding-top: 20px;
+    & .asAtTile {
+        color: red;
+    }
+}
+
+.ant-layout {
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    min-height: 0;
+    background: #fff;
+}
+
+.date-container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+#filter{
+     padding-top: 6px;
+     padding-right: 15px;
+     line-height: 15px;
+     font-size: 16px;
+}
+
+#tryAgainBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.actions{
+    display: flex;
+    justify-content: flex-end;
+}
+
+main{
+    padding-top: 30px;
+}
+

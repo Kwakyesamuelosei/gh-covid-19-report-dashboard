@@ -1,0 +1,40 @@
+
+.confirmedContainer{
+    background-color: rgb(167, 74, 74);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 40px;
+   
+}
+
+.recoveredContainer{
+    background-color: rgb(15, 25, 80);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.deathsContainer{
+    background-color: rgb(151, 10, 10);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.activeContainer{
+    background-color: rgb(63, 145, 38);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.stats-title{
+    color: #cec5c5;
+    font-size: 25px;
+}
+
+.stats-value{
+    color: #fff;
+    font-size: 25px;
+}
+

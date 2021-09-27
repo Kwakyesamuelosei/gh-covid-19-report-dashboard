@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiURL: 'https://covid-19-data.p.rapidapi.com',
+  apiKeys: '9zcWRTxfwNmshOQbPiZIm6Ocflncp1N90GTjsnkwXf0BHgs4lN',
+  apiHost: 'covid-19-data.p.rapidapi.com',
 };
 
 /*
