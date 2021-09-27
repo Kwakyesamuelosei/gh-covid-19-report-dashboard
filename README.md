@@ -4,7 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Project setup
 
-Clone the project `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Update NPM `sudo npm install npm@latest -g`
+Install the Angular CLI `sudo npm install -g @angular/cli`
+Clone the project `https://github.com/Kwakyesamuelosei/gh-covid-19-report-dashboard.git` 
+Cd into the project `cd gh-covid-19-report-dashboard`
+Run Dependencies in the project `sudo npm install`
 
 ## Development server
 
