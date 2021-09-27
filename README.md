@@ -18,6 +18,10 @@ Run Dependencies in the project `sudo npm install`
 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+By default it select the current date , but there is no data at that moment
+
+To get more data on the dashboard, select `01-06-2020` on the filter.
+
 ## Build
 
 Run `npm build` to build the project. The build artifacts will be stored in the `dist/` directory.
